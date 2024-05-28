@@ -1,0 +1,78 @@
+[
+    {
+        "name": "alpine",
+        "guessImage": "alpine"
+    },
+    {
+        "name": "audi",
+        "guessImage": "audi"
+    },
+    {
+        "name": "bmw",
+        "guessImage": "bmw"
+    },
+    {
+        "name": "bugatti",
+        "guessImage": "bugatti"
+    },
+    {
+        "name": "citroen",
+        "guessImage": "citroen"
+    },
+    {
+        "name": "dacia",
+        "guessImage": "dacia"
+    },
+    {
+        "name": "ferrari",
+        "guessImage": "ferrari"
+    },
+    {
+        "name": "ford",
+        "guessImage": "ford"
+    },
+    {
+        "name": "lamborghini",
+        "guessImage": "lamborghini"
+    },
+    {
+        "name": "land rover",
+        "guessImage": "land-rover"
+    },
+    {
+        "name": "lexus",
+        "guessImage": "lexus"
+    },
+    {
+        "name": "mazda",
+        "guessImage": "mazda"
+    },
+    {
+        "name": "mercedes",
+        "guessImage": "mercedes"
+    },
+    {
+        "name": "peugeot",
+        "guessImage": "peugeot"
+    },
+    {
+        "name": "porsche",
+        "guessImage": "porsche"
+    },
+    {
+        "name": "renault",
+        "guessImage": "renault"
+    },
+    {
+        "name": "rolls-royce",
+        "guessImage": "rolls-royce"
+    },
+    {
+        "name": "skoda",
+        "guessImage": "skoda"
+    },
+    {
+        "name": "tesla",
+        "guessImage": "tesla"
+    },
+]
